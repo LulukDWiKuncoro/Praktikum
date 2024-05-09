@@ -36,7 +36,7 @@ require_once 'sidebar.php';
                             </div>
                         </div>
                         <div class="card-body">
-                            <h4 class="text-center mt-4"><b>Welcome TO</b> <br><i>WEB Puskesmas</i></h4>
+                            <h4 class="text-center mt-4"><b>Welcome TO</b> <br><i>Web Puskesmas</i></h4>
                         </div>
                         <div class="text-center">
                             <img src="dist/img/puskesmas2.png" class="img-fluid" alt="Profile Image">

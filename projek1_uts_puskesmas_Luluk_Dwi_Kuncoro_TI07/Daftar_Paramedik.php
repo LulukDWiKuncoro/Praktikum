@@ -156,62 +156,6 @@
 
     </section>
 
-  </main><!-- End #main -->
-
-  <!-- ======= Footer ======= -->
-  <footer id="footer" class="footer">
-
-    <div class="container">
-      <div class="row gy-4">
-        <div class="col-lg-5 col-md-12 footer-info">
-          <a href="index.html" class="logo d-flex align-items-center">
-            <span>Puskesmas</span>
-          </a>
-          <p>Ini dia para Dokter yang siap membantu kalian jika kalian mengunjungi  puskesmas ini </p>
-        </div>
-        
-          <h4>Hubungi Kami:</h4>
-          <p>
-            Cimanggis Depok<br>
-            Rt 9 Rw 7 <br>
-            Indonesia <br>
-            <strong>Telpon:</strong> 0857 7749 3475<br>
-            <strong>Email:</strong> admin123@gmail.com<br>
-          </p>
-        </div>
-        <div class="col-lg-2 col-6 footer-links">
-          <div class="social-links d-flex mt-4">
-            <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-            <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-            <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-            <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    </section>
-
-    </main><!-- End #main -->
-
-    
-
-      <div class="container mt-4">
-        <div class="copyright">
-          &copy; Copyright <strong>puskesmas</span></strong>.
-        </div>
-        <div class="credits">
-          <!-- All the links in the footer should remain intact. -->
-          <!-- You can delete the links only if you purchased the pro version. -->
-          <!-- Licensing information: https://bootstrapmade.com/license/ -->
-          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/impact-bootstrap-business-website-template/ -->
-          Designed by <a href="https://bootstrapmade.com/">Luluk Dwi Kuncoro</a>
-        </div>
-      </div>
-
-    </footer><!-- End Footer -->
-    <!-- End Footer -->
-
     <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
     <div id="preloader"></div>
