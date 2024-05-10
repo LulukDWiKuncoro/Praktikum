@@ -1,5 +1,0 @@
-gmail
-admin@gmail.com
-
-password
-123
